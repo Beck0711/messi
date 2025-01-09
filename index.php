@@ -3,7 +3,7 @@
 <head>
     <meta charset="UTF-8">
     <title>Document</title>
-    <link rel="stylesheet" type="text/css" href="LoteriaPrimitiva/css/estilos.css">
+    <link rel="stylesheet" type="text/css" href="Loteria Primitiva/css/estilos.css">
 </head>
 <body>    
     <?php
